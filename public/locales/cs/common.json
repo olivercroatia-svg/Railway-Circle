@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Domů", "about": "O nás", "services": "Služby", "contact": "Kontakt" },
+  "hero": {
+    "badge": "Váš spolehlivý partner v železniční logistice",
+    "title_1": "Kde se pohyb", "title_2": "stává výhodou",
+    "subtitle": "Komplexní logistická řešení pro nákladní železniční dopravu ve střední a jihovýchodní Evropě.",
+    "cta_primary": "Vyžádat cenovou nabídku", "cta_secondary": "Naše služby", "scroll": "Posunout dolů"
+  },
+  "stats": { "tons": "tun nákladu ročně", "countries": "zemí v síti", "years": "let zkušeností", "availability": "dostupnost týmu" },
+  "services_overview": {
+    "title": "Naše služby", "subtitle": "Od prvního požadavku až po konečné dodání — kompletní logistická řešení na jednom místě.",
+    "rail": { "title": "Klasická železniční doprava", "desc": "Organizace a realizace nákladní železniční dopravy přes ključové evropské koridory.", "features": ["Vozy na sypký náklad", "Kontejnerová doprava", "Cisterny", "Chladírenské vozy"] },
+    "intermodal": { "title": "Intermodální doprava", "desc": "Kombinace železniční a silniční dopravy pro optimální trasy a náklady na doručení.", "features": ["Železnice + silnice", "Železnice + moře", "Multimodální terminály", "Doručení Door-to-door"] },
+    "dangerous": { "title": "Nebezpečné věci (RID)", "desc": "Certifikovaná přeprava nebezpečných materiálů podle nejpřísnějších bezpečnostních norem.", "features": ["Certifikovaná řešení RID", "Třídy 1–9", "Speciální vozy", "Bezpečnostní dokumentace"] },
+    "special": { "title": "Výjimečné zásilky", "desc": "Přeprava těžkého, nadrozměrného a nestandardního nákladu se speciálním plánováním trasy.", "features": ["Těžké náklady (> 60t)", "Nadrozměrné zásilky", "Plánování trasy", "Zvláštní povolení"] },
+    "customs": { "title": "Celní správa a dokumentace", "desc": "Kompletní příprava celní dokumentace a zastupování před celními orgány.", "features": ["Dovozní/vývozní celní odbavení", "Tranzitní postupy", "Dokumenty T1/T2", "Celní zastoupení"] },
+    "tracking": { "title": "Sledování zásilek", "desc": "Sledování zásilek v reálném čase s naprostou transparentností dodavatelského řetězce.", "features": ["Systém Track & Trace", "Sledování v reálném čase", "Digitální dokumentace", "24/7 přístup k datům"] }
+  },
+  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderní logistická společnost specializující se na nákladní železniční dopravu.", "desc_2": "Zkušení odborníci ze Slovinska, Chorvatska a Srbska s více než 15 lety znalostí.", "link": "Více o nás" },
+  "cta_section": { "title": "Jste připraveni optimalizovat svůj logistický řetězec?", "subtitle": "Kontaktujte nás ještě dnes a zjistěte, jak můžeme vaše logistické výzvy přeměnit v konkurenční výhodu.", "button": "Kontaktujte nás" },
+  "about": {
+    "hero_badge": "O nás", "hero_title": "Měníme logistické výzvy ve výhody", "hero_subtitle": "Moderní logistická společnost specializující se na nákladní železniční dopravu v Evropě.",
+    "story_title": "Náš příběh", "story_p1": "Společnost Railway Circle byla založena s jedním posláním: přeměnit logistické výzvy na konkurenční výhody pro naše zákazníky.", "story_p2": "Jádro společnosti tvoří zkušení odborníci s více než 15 lety znalostí.",
+    "values_title": "Naše hodnoty",
+    "value_reliability": "Spolehlivost", "value_reliability_desc": "Přesné plánování tras a dodržování nejvyšších bezpečnostních standardů.",
+    "value_360": "360° přístup", "value_360_desc": "Od prvního požadavku po konečné dodání — kompletní logistická řešení.",
+    "value_sustainability": "Udržitelnost", "value_sustainability_desc": "Důraz na snižování uhlíkové stopy optimalizací trasy.",
+    "value_digital": "Digitalizace", "value_digital_desc": "Úplná digitalizace procesů s přístupem v reálném čase prostřednictvím systému Track & Trace.",
+    "group_title": "Součást silnější skupiny", "group_desc": "Jsme součástí úspěšné skupiny společností pokrývajících celý logistický řetězec:",
+    "director_title": "Ředitelka", "director_name": "Melita Rozman Dacar", "director_desc": "Dlouholetá manažerka Slovinských železnic a zkušená odbornice na logistiku."
+  },
+  "services": { "hero_badge": "Služby", "hero_title": "Komplexní logistická řešení", "hero_subtitle": "Od klasické železniční dopravy po speciální logistické výzvy — vše na jednom místě.", "cta_title": "Potřebujete řešení na míru?", "cta_desc": "Každá logistická výzva je jedinečná.", "cta_button": "Vyžádat nabídku" },
+  "contact": {
+    "hero_badge": "Kontakt", "hero_title": "Spojte se s námi", "hero_subtitle": "Náš tým je k dispozici 24 hodin denně.",
+    "form_title": "Pošlete dotaz", "name": "Celé jméno", "email": "E-mailová adresa", "company": "Společnost", "phone": "Telefon", "message": "Zpráva", "message_placeholder": "Popište své logistické potřeby...", "send": "Odeslat dotaz", "sending": "Odesílání...",
+    "success": "Váš dotaz byl úspěšně odeslán!", "error": "Vyskytla se chyba. Zkuste to prosím znovu.",
+    "info_title": "Informace", "address": "Adresa", "address_main": "Bosiljevska 20, Záhřeb", "address_office": "Kancelář: Sveti Duh 50A, Záhřeb", "email_label": "E-mail", "availability": "Dostupnost", "availability_value": "24/7 — jsme tu vždy pro vás"
+  },
+  "footer": { "tagline": "Kde se pohyb stává výhodou.", "links_title": "Rychlé odkazy", "contact_title": "Kontakt", "rights": "Všechna práva vyhrazena." }
+}

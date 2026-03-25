@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Domov", "about": "O nás", "services": "Služby", "contact": "Kontakt" },
+  "hero": {
+    "badge": "Váš spoľahlivý partner v železničnej logistike",
+    "title_1": "Kde sa pohyb", "title_2": "stáva výhodou",
+    "subtitle": "Komplexné logistické riešenia pre nákladnú železničnú dopravu v strednej a juhovýchodnej Európe.",
+    "cta_primary": "Vyžiadať cenovú ponuku", "cta_secondary": "Naše služby", "scroll": "Posunúť nadol"
+  },
+  "stats": { "tons": "ton nákladu ročne", "countries": "krajín v sieti", "years": "rokov skúseností", "availability": "dostupnosť tímu" },
+  "services_overview": {
+    "title": "Naše služby", "subtitle": "Od prvej požiadavky až po konečné dodanie — kompletné logistické riešenia na jednom mieste.",
+    "rail": { "title": "Klasická železničná doprava", "desc": "Organizácia a realizácia nákladnej železničnej dopravy cez kľúčové európske koridory." },
+    "intermodal": { "title": "Intermodálna doprava", "desc": "Kombinácia železničnej a cestnej dopravy pre optimálne trasy a náklady na doručenie." },
+    "dangerous": { "title": "Nebezpečný tovar (RID)", "desc": "Certifikovaná preprava nebezpečných materiálov podľa najprísnejších bezpečnostných noriem." },
+    "special": { "title": "Výnimočné zásielky", "desc": "Preprava ťažkého, nadrozmerného a neštandardného nákladu so špeciálnym plánovaním trasy." },
+    "customs": { "title": "Colnica a dokumentácia", "desc": "Kompletné vypracovanie colnej dokumentácie a zastupovanie pred colnými orgánmi." },
+    "tracking": { "title": "Sledovanie zásielok", "desc": "Sledovanie zásielok v reálnom čase s úplnou transparentnosťou dodávateľského reťazca." }
+  },
+  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderná logistická spoločnosť špecializujúca sa na nákladnú železničnú dopravu.", "desc_2": "Skúsení odborníci zo Slovinska, Chorvátska a Srbska s viac ako 15-ročnými znalosťami v železničnej doprave.", "link": "Viac o nás" },
+  "cta_section": { "title": "Ste pripravení optimalizovať svoj logistický reťazec?", "subtitle": "Kontaktujte nás ešte dnes a zistite, ako môžeme premeniť vaše logistické výzvy na konkurenčnú výhodu.", "button": "Kontaktujte nás" },
+  "about": {
+    "hero_badge": "O nás", "hero_title": "Meníme logistické výzvy na výhody", "hero_subtitle": "Moderná logistická spoločnosť špecializujúca sa na nákladnú železničnú dopravu v Európe.",
+    "story_title": "Náš príbeh", "story_p1": "Spoločnosť Railway Circle bola založená s jedným poslaním: premeniť logistické výzvy na konkurenčné výhody pre našich zákazníkov.", "story_p2": "Jadro spoločnosti tvoria skúsení odborníci s viac ako 15-ročnými znalosťami.",
+    "values_title": "Naše hodnoty",
+    "value_reliability": "Spoľahlivosť", "value_reliability_desc": "Presné plánovanie trasy a dodržiavanie najvyšších bezpečnostných štandardov.",
+    "value_360": "360° prístup", "value_360_desc": "Od prvej požiadavky po konečné dodanie — kompletné logistické riešenia.",
+    "value_sustainability": "Udržateľnosť", "value_sustainability_desc": "Dôraz na znižovanie uhlíkovej stopy prostredníctvom optimalizácie trasy.",
+    "value_digital": "Digitalizácia", "value_digital_desc": "Úplná digitalizácia procesov s prístupom v reálnom čase prostredníctvom systému Track & Trace.",
+    "group_title": "Súčasť silnejšej skupiny", "group_desc": "Sme súčasťou úspešnej skupiny spoločností pokrývajúcich celý logistický reťazec:",
+    "director_title": "Riaditeľka", "director_name": "Melita Rozman Dacar", "director_desc": "Dlhoročná manažérka Slovinských železníc a skúsená odborníčka na logistiku."
+  },
+  "services": { "hero_badge": "Služby", "hero_title": "Komplexné logistické riešenia", "hero_subtitle": "Od klasickej železničnej dopravy po špeciálne logistické výzvy — všetko na jednom mieste.", "cta_title": "Potrebujete riešenie na mieru?", "cta_desc": "Každá logistická výzva je jedinečná.", "cta_button": "Vyžiadať ponuku" },
+  "contact": {
+    "hero_badge": "Kontakt", "hero_title": "Spojte sa s nami", "hero_subtitle": "Náš tím je k dispozícii 24 hodín denne.",
+    "form_title": "Pošlite dopyt", "name": "Celé meno", "email": "E-mailová adresa", "company": "Spoločnosť", "phone": "Telefón", "message": "Správa", "message_placeholder": "Opíšte svoje logistické potreby...", "send": "Odoslať dopyt", "sending": "Odosielanie...",
+    "success": "Váš dopyt bol úspešne odoslaný!", "error": "Vyskytla sa chyba. Skúste to znova.",
+    "info_title": "Informácie", "address": "Adresa", "address_main": "Bosiljevska 20, Záhreb", "address_office": "Kancelária: Sveti Duh 50A, Záhreb", "email_label": "E-mail", "availability": "Dostupnosť", "availability_value": "24/7 — sme tu vždy pre vás"
+  },
+  "footer": { "tagline": "Kde sa pohyb stáva výhodou.", "links_title": "Rýchle odkazy", "contact_title": "Kontakt", "rights": "Všetky práva vyhradené." }
+}

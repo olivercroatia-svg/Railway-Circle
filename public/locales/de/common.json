@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Startseite", "about": "Über uns", "services": "Dienstleistungen", "contact": "Kontakt" },
+  "hero": {
+    "badge": "Ihr zuverlässiger Partner für Bahnlogistik",
+    "title_1": "Wo Bewegung", "title_2": "zum Vorteil wird",
+    "subtitle": "Umfassende Logistiklösungen für den Schienengüterverkehr in Mittel- und Südosteuropa.",
+    "cta_primary": "Angebot anfordern", "cta_secondary": "Unsere Dienstleistungen", "scroll": "Nach unten scrollen"
+  },
+  "stats": { "tons": "Tonnen Fracht pro Jahr", "countries": "Länder im Netzwerk", "years": "Jahre Erfahrung", "availability": "Team-Verfügbarkeit" },
+  "services_overview": {
+    "title": "Unsere Dienstleistungen", "subtitle": "Von der ersten Anfrage bis zur endgültigen Lieferung — komplette Logistiklösungen aus einer Hand.",
+    "rail": { "title": "Klassischer Schienenverkehr", "desc": "Organisation und Durchführung von Schienengüterverkehr über wichtige europäische Korridore.", "features": ["Schüttgutwagen", "Containertransport", "Tankwagen", "Kühlwagen"] },
+    "intermodal": { "title": "Intermodaler Verkehr", "desc": "Kombination von Schienen- und Straßenverkehr für optimale Routen und Lieferkosten.", "features": ["Schiene + Straße", "Schiene + See", "Multimodale Terminals", "Tür-zu-Tür"] },
+    "dangerous": { "title": "Gefahrguttransport (RID)", "desc": "Zertifizierter Transport von Gefahrgut nach den strengsten Sicherheitsstandards.", "features": ["RID-zertifizierte Lösungen", "Klassen 1–9", "Spezialwagen", "Sicherheitsdokumentation"] },
+    "special": { "title": "Sondertransporte", "desc": "Transport von schweren, übergroßen und nicht standardisierten Ladungen mit spezieller Routenplanung.", "features": ["Schwere Lasten (> 60t)", "Übergroße Ladungen", "Routenplanung", "Sondergenehmigungen"] },
+    "customs": { "title": "Zoll & Dokumentation", "desc": "Komplette Vorbereitung von Zolldokumenten und Vertretung vor Zollbehörden.", "features": ["Import-/Exportverzollung", "Transitverfahren", "T1/T2 Dokumente", "Zollabfertigung"] },
+    "tracking": { "title": "Sendungsverfolgung", "desc": "Echtzeit-Sendungsverfolgung mit voller Transparenz der Lieferkette.", "features": ["Sendungsverfolgungssystem", "Echtzeit-Positionierung", "Digitale Dokumentation", "24/7 Datenzugriff"] }
+  },
+  "about_teaser": { "badge": "Über uns", "title": "360° Logistikpartner", "desc_1": "Railway Circle ist ein modernes Logistikunternehmen, das sich auf den Schienengüterverkehr spezialisiert hat.", "desc_2": "Erfahrene Experten aus Slowenien, Kroatien und Serbien mit über 15 Jahren Erfahrung.", "link": "Erfahren Sie mehr über uns" },
+  "cta_section": { "title": "Bereit, Ihre Logistikkette zu optimieren?", "subtitle": "Kontaktieren Sie uns noch heute und entdecken Sie, wie wir Ihre Logistikherausforderungen in Wettbewerbsvorteile verwandeln können.", "button": "Kontaktieren Sie uns" },
+  "about": {
+    "hero_badge": "Über uns", "hero_title": "Wir verwandeln Logistikherausforderungen in Vorteile", "hero_subtitle": "Ein modernes Logistikunternehmen spezialisiert auf Schienengüterverkehr mit umfangreicher Erfahrung.",
+    "story_title": "Unsere Geschichte", "story_p1": "Railway Circle wurde mit einer Mission gegründet: Logistikherausforderungen in Wettbewerbsvorteile für unsere Kunden zu verwandeln.", "story_p2": "Erfahrene Experten aus Slowenien, Kroatien und Serbien.",
+    "values_title": "Unsere Werte",
+    "value_reliability": "Zuverlässigkeit", "value_reliability_desc": "Präzise Routenplanung und Einhaltung höchster Sicherheitsstandards.",
+    "value_360": "360° Ansatz", "value_360_desc": "Von der ersten Anfrage bis zur Lieferung — komplette Logistiklösungen.",
+    "value_sustainability": "Nachhaltigkeit", "value_sustainability_desc": "Fokus auf die Reduzierung des CO2-Fußabdrucks.",
+    "value_digital": "Digitalisierung", "value_digital_desc": "Vollständige Digitalisierung von Prozessen und Echtzeitzugriff.",
+    "group_title": "Teil einer starken Gruppe", "group_desc": "Railway Circle ist Teil einer erfolgreichen Unternehmensgruppe:",
+    "director_title": "Geschäftsführerin", "director_name": "Melita Rozman Dacar", "director_desc": "Langjährige Managerin und erfahrene Expertin in der Bahnlogistik."
+  },
+  "services": { "hero_badge": "Dienstleistungen", "hero_title": "Umfassende Logistiklösungen", "hero_subtitle": "Vom klassischen Schienenverkehr bis zu speziellen Herausforderungen.", "cta_title": "Benötigen Sie eine maßgeschneiderte Lösung?", "cta_desc": "Wir bieten Lösungen für jede Herausforderung.", "cta_button": "Angebot anfordern" },
+  "contact": {
+    "hero_badge": "Kontakt", "hero_title": "So erreichen Sie uns", "hero_subtitle": "Unser Team ist rund um die Uhr verfügbar.",
+    "form_title": "Senden Sie eine Anfrage", "name": "Vollständiger Name", "email": "E-Mail-Adresse", "company": "Unternehmen", "phone": "Telefon", "message": "Nachricht", "message_placeholder": "Beschreiben Sie Ihre Logistikbedürfnisse...", "send": "Anfrage senden", "sending": "Senden...",
+    "success": "Ihre Anfrage wurde erfolgreich gesendet!", "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "info_title": "Informationen", "address": "Adresse", "address_main": "Bosiljevska 20, Zagreb", "address_office": "Büro: Sveti Duh 50A, Zagreb", "email_label": "E-Mail", "availability": "Verfügbarkeit", "availability_value": "24/7 — Wir sind immer für Sie da"
+  },
+  "footer": { "tagline": "Wo Bewegung zum Vorteil wird.", "links_title": "Schnelllinks", "contact_title": "Kontakt", "rights": "Alle Rechte vorbehalten." }
+}

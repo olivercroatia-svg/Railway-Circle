@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Home", "about": "Chi siamo", "services": "Servizi", "contact": "Contattaci" },
+  "hero": {
+    "badge": "Il tuo partner logistico ferroviario affidabile",
+    "title_1": "Dove il movimento", "title_2": "diventa un vantaggio",
+    "subtitle": "Soluzioni logistiche complete per il trasporto merci ferroviario nell'Europa centrale e sud-orientale.",
+    "cta_primary": "Richiedi un preventivo", "cta_secondary": "I nostri servizi", "scroll": "Scorri in basso"
+  },
+  "stats": { "tons": "tonnellate di merci all'anno", "countries": "paesi nella rete", "years": "anni di esperienza", "availability": "disponibilità del team" },
+  "services_overview": {
+    "title": "I nostri servizi", "subtitle": "Dalla prima richiesta alla consegna finale — soluzioni logistiche complete.",
+    "rail": { "title": "Trasporto ferroviario classico", "desc": "Organizzazione e realizzazione di trasporti merci sui principali corridoi europei." },
+    "intermodal": { "title": "Trasporto intermodale", "desc": "Combinazione di trasporto su rotaia e su strada per rotte ottimali." },
+    "dangerous": { "title": "Merci pericolose (RID)", "desc": "Trasporto certificato di materiali pericolosi con i più elevati standard." },
+    "special": { "title": "Trasporti eccezionali", "desc": "Trasporto di merci pesanti e fuori sagoma con rotte speciali." },
+    "customs": { "title": "Dogana e documentazione", "desc": "Gestione doganale completa e rappresentanza." },
+    "tracking": { "title": "Tracciamento spedizioni", "desc": "Monitoraggio in tempo reale della spedizione." }
+  },
+  "about_teaser": { "badge": "Chi siamo", "title": "Partner logistico a 360°", "desc_1": "Railway Circle è una moderna società logistica.", "desc_2": "Supportata da professionisti europei con 15 anni di esperienza.", "link": "Scopri di più" },
+  "cta_section": { "title": "Pronto per ottimizzare la tua catena logistica?", "subtitle": "Contattaci oggi e scopri i vantaggi per la tua logistica.", "button": "Contattaci ora" },
+  "about": {
+    "hero_badge": "Chi siamo", "hero_title": "Trasformiamo le sfide logistiche in vantaggi", "hero_subtitle": "Una moderna società specializzata in logistica ferroviaria.",
+    "story_title": "La nostra storia", "story_p1": "Siamo nati per dare un vantaggio ai nostri clienti.", "story_p2": "Uniamo competenze solide con esperienze decennali.",
+    "values_title": "I nostri valori",
+    "value_reliability": "Affidabilità", "value_reliability_desc": "Struttura solida e sicurezza ai massimi livelli.",
+    "value_360": "Approccio a 360°", "value_360_desc": "Soluzioni che coprono tutta la catena logistica.",
+    "value_sustainability": "Sostenibilità", "value_sustainability_desc": "Ottimizzazione verde e rispetto per l'ambiente.",
+    "value_digital": "Digitalizzazione", "value_digital_desc": "Gestione paperless e massima trasparenza.",
+    "group_title": "Parte di un gruppo forte", "group_desc": "Siamo membri di una grande rete che copre tutto in logistica:",
+    "director_title": "Direttore", "director_name": "Melita Rozman Dacar", "director_desc": "Leader esperto nel campo ferroviario."
+  },
+  "services": { "hero_badge": "Servizi", "hero_title": "Le nostre soluzioni", "hero_subtitle": "Tutto sotto lo stesso tetto, dall'inizio alla fine.", "cta_title": "Hai bisogno di qualcosa in particolare?", "cta_desc": "Contatta il nostro centro assistenza per preventivi.", "cta_button": "Calcola un'offerta" },
+  "contact": {
+    "hero_badge": "Contattaci", "hero_title": "Mettetevi in contatto", "hero_subtitle": "Siamo sempre reperibili, 24/7.",
+    "form_title": "Invia richiesta", "name": "Nome e cognome", "email": "Indirizzo Email", "company": "Azienda", "phone": "Telefono", "message": "Messaggio", "message_placeholder": "Dicci di cosa hai bisogno...", "send": "Invia l'offerta", "sending": "Invio...",
+    "success": "Inviato con successo!", "error": "C'è stato un errore.",
+    "info_title": "Dettagli", "address": "Sede", "address_main": "Bosiljevska 20, Zagabria", "address_office": "Ufficio: Sveti Duh 50A, Zagabria", "email_label": "E-mail", "availability": "Sempre online", "availability_value": "24/7 — garantito"
+  },
+  "footer": { "tagline": "Dove il movimento è virtù.", "links_title": "Pagine", "contact_title": "Info", "rights": "Tutti i diritti riservati." }
+}

@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O nama",
+    "services": "Usluge",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Pouzdani partner u željezničkoj logistici",
+    "title_1": "Gdje kretanje",
+    "title_2": "postaje prednost",
+    "subtitle": "Sveobuhvatna logistička rješenja za teretni željeznički prijevoz diljem centralne i jugoistočne Europe.",
+    "cta_primary": "Zatražite ponudu",
+    "cta_secondary": "Naše usluge",
+    "scroll": "Skrolajte dolje"
+  },
+  "stats": {
+    "tons": "tona tereta godišnje",
+    "countries": "zemalja u mreži",
+    "years": "godina iskustva",
+    "availability": "dostupnost tima"
+  },
+  "services_overview": {
+    "title": "Naše usluge",
+    "subtitle": "Od prvog zahtjeva do konačne isporuke — kompletna logistička rješenja na jednom mjestu.",
+    "rail": {
+      "title": "Klasični željeznički prijevoz",
+      "desc": "Organizacija i realizacija teretnih prijevoza željeznicom kroz ključne europske koridore.",
+      "features": ["Wagoni za rasute terete", "Kontejnerski prijevoz", "Tankeri", "Hladnjači"]
+    },
+    "intermodal": {
+      "title": "Intermodalni prijevoz",
+      "desc": "Kombinacija željeznice i cestovnog prometa za optimalne rute i troškove dostave.",
+      "features": ["Željeznica + cesta", "Željeznica + more", "Multimodalni terminali", "Door-to-door"]
+    },
+    "dangerous": {
+      "title": "Prijevoz opasnih tvari (RID)",
+      "desc": "Certificirani prijevoz opasnih tvari prema najstrožim sigurnosnim standardima.",
+      "features": ["RID certificirana rješenja", "Klase 1–9", "Posebni vagoni", "Sigurnosna dokumentacija"]
+    },
+    "special": {
+      "title": "Izvanredne pošiljke",
+      "desc": "Prijevoz teških, gabaritnih i nestandardnih tereta s posebnim planiranjem rute.",
+      "features": ["Teški tereti (> 60t)", "Gabaritni tereti", "Planiranje rute", "Posebna dozvola"]
+    },
+    "customs": {
+      "title": "Carinjenje i dokumentacija",
+      "desc": "Kompletna priprema carinske dokumentacije i zastupanje pred carinskim tijelima.",
+      "features": ["Uvozno/izvozno carinjenje", "Tranzitni postupci", "T1/T2 dokumenti", "Carinski zastupnik"]
+    },
+    "tracking": {
+      "title": "Track & Trace",
+      "desc": "Praćenje pošiljki u stvarnom vremenu s potpunom transparentnošću lanca opskrbe.",
+      "features": ["Track & Trace sustav", "Real-time pozicioniranje", "Digitalna dokumentacija", "24/7 pristup podacima"]
+    }
+  },
+  "about_teaser": {
+    "badge": "O nama",
+    "title": "360° logistički partner",
+    "desc_1": "Railway Circle je moderna logistička tvrtka specijalizirana za teretni željeznički prijevoz. Naš koncept \"zatvorene petlje\" osigurava kontinuirano i učinkovito funkcioniranje vašeg lanca opskrbe.",
+    "desc_2": "Iskusni stručnjaci iz Slovenije, Hrvatske i Srbije s više od 15 godina znanja u željezničkom prometu.",
+    "link": "Saznajte više o nama"
+  },
+  "cta_section": {
+    "title": "Spremni za optimizaciju vašeg logističkog lanca?",
+    "subtitle": "Kontaktirajte nas danas i otkrijte kako možemo transformirati vaše logističke izazove u konkurentske prednosti.",
+    "button": "Kontaktirajte nas"
+  },
+  "about": {
+    "hero_badge": "O nama",
+    "hero_title": "Transformiramo logističke izazove u prednosti",
+    "hero_subtitle": "Moderna logistička tvrtka specijalizirana za teretni željeznički prijevoz s bogatim iskustvom diljem Europe.",
+    "story_title": "Naša priča",
+    "story_p1": "Railway Circle je osnovan s jednom misijom: transformirati logističke izazove u konkurentske prednosti za naše kupce. Naša tvrtka gradi svoju ponudu na konceptu \"zatvorene petlje\" logistike — od prvog zahtjeva do konačne isporuke.",
+    "story_p2": "Jezgru tvrtke predstavljaju iskusni stručnjaci iz Slovenije, Hrvatske i Srbije koji kombiniraju više od 15 godina znanja u području željezničkog prometa. Naša je misija jasna: osigurati kupcima transparentno, pouzdano i učinkovito logističko iskustvo.",
+    "values_title": "Naše vrijednosti",
+    "value_reliability": "Pouzdanost",
+    "value_reliability_desc": "Precizno planiranje prijevoznih ruta i poštivanje najviših sigurnosnih standarda garancija su vaše pošiljke.",
+    "value_360": "360° pristup",
+    "value_360_desc": "Od prvog zahtjeva do konačne isporuke — kompletna logistička rješenja bez prekida i uskih grla.",
+    "value_sustainability": "Održivost",
+    "value_sustainability_desc": "Naglasak na smanjenju ugljičnog otiska kroz optimizaciju ruta i modernizaciju logističkih procesa.",
+    "value_digital": "Digitalizacija",
+    "value_digital_desc": "Potpuna digitalizacija procesa s pristupom ključnim informacijama u stvarnom vremenu putem sustava Track & Trace.",
+    "group_title": "Dio smo jake logističke grupacije",
+    "group_desc": "Railway Circle je dio uspješne grupacije tvrtki koje pokrivaju cijeli lanac logistike:",
+    "director_title": "Direktorica tvrtke",
+    "director_name": "Melita Rozman Dacar",
+    "director_desc": "Dugogodišnja menadžerica Slovenskih Željeznica i iskusna stručnjakinja u željezničkoj logistici."
+  },
+  "services": {
+    "hero_badge": "Usluge",
+    "hero_title": "Sveobuhvatna logistička rješenja",
+    "hero_subtitle": "Od klasičnog željezničkog prijevoza do posebnih logističkih izazova — sve na jednom mjestu.",
+    "cta_title": "Trebate prilagođeno rješenje?",
+    "cta_desc": "Svaki logistički izazov je jedinstven. Kontaktirajte nas za ponudu prilagođenu vašim potrebama.",
+    "cta_button": "Zatražite ponudu"
+  },
+  "contact": {
+    "hero_badge": "Kontakt",
+    "hero_title": "Stupite u kontakt s nama",
+    "hero_subtitle": "Naš tim dostupan je 24 sata dnevno za brzo rješavanje vaših logističkih izazova.",
+    "form_title": "Pošaljite upit",
+    "name": "Ime i prezime",
+    "email": "E-mail adresa",
+    "company": "Tvrtka",
+    "phone": "Telefon",
+    "message": "Poruka",
+    "message_placeholder": "Opišite vaše logističke potrebe...",
+    "send": "Pošalji upit",
+    "sending": "Slanje...",
+    "success": "Upit je uspješno poslan! Javit ćemo vam se u najkraćem roku.",
+    "error": "Došlo je do greške. Molimo pokušajte ponovno ili nas kontaktirajte direktno.",
+    "info_title": "Informacije",
+    "address": "Adresa",
+    "address_main": "Bosiljevska 20, Zagreb",
+    "address_office": "Ured: Sveti Duh 50A, Zagreb",
+    "email_label": "E-mail",
+    "availability": "Dostupnost",
+    "availability_value": "24/7 — uvijek smo tu za vas"
+  },
+  "footer": {
+    "tagline": "Gdje kretanje postaje prednost.",
+    "links_title": "Brze veze",
+    "contact_title": "Kontakt",
+    "rights": "Sva prava pridržana."
+  }
+}

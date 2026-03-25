@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Strona główna", "about": "O nas", "services": "Usługi", "contact": "Kontakt" },
+  "hero": {
+    "badge": "Twój niezawodny partner w logistyce kolejowej",
+    "title_1": "Gdzie ruch", "title_2": "staje się przewagą",
+    "subtitle": "Kompleksowe rozwiązania logistyczne dla kolejowego transportu towarowego w Europie Środkowej i Południowo-Wschodniej.",
+    "cta_primary": "Zapytaj o ofertę", "cta_secondary": "Nasze usługi", "scroll": "Przewiń w dół"
+  },
+  "stats": { "tons": "ton ładunku rocznie", "countries": "krajów w sieci", "years": "lat doświadczenia", "availability": "dostępność zespołu" },
+  "services_overview": {
+    "title": "Nasze usługi", "subtitle": "Od pierwszego zapytania do ostatecznej dostawy — kompletne rozwiązania logistyczne w jednym miejscu.",
+    "rail": { "title": "Klasyczny transport kolejowy", "desc": "Organizacja i realizacja kolejowych przewozów towarowych kluczowymi korytarzami.", "features": ["Wagony do towarów masowych", "Transport kontenerowy", "Cysterny", "Wagony chłodnicze"] },
+    "intermodal": { "title": "Transport intermodalny", "desc": "Zoptymalizowane trasy i dostawy poprzez połączenie kolei i transportu drogowego.", "features": ["Kolej + Droga", "Kolej + Morze", "Terminale multimodalne", "Dostawy Door-to-door"] },
+    "dangerous": { "title": "Towary niebezpieczne (RID)", "desc": "Certyfikowany przewóz z zachowaniem rygorystycznych norm bezpieczeństwa.", "features": ["Rozwiązania z certyfikatem RID", "Klasy 1–9", "Wagony specjalne", "Dokumentacja bezpieczeństwa"] },
+    "special": { "title": "Przesyłki ponadgabarytowe", "desc": "Przewóz towarów nietypowych wraz ze specjalistycznym planowaniem tras.", "features": ["Ładunki ciężkie (> 60t)", "Ładunki ponadgabarytowe", "Planowanie trasy", "Zezwolenia specjalne"] },
+    "customs": { "title": "Odprawy celne i dokumentacja", "desc": "Przygotowanie pełnej dokumentacji i reprezentacja celna.", "features": ["Odprawy importowe/eksportowe", "Procedury tranzytowe", "Dokumenty T1/T2", "Przedstawicielstwo celne"] },
+    "tracking": { "title": "Monitoring przesyłek", "desc": "System śledzenia towarów w czasie rzeczywistym.", "features": ["System Track & Trace", "Pozycjonowanie w czasie rzeczywistym", "Dokumentacja cyfrowa", "Dostęp do danych 24/7"] }
+  },
+  "about_teaser": { "badge": "O nas", "title": "Partner logistyczny 360°", "desc_1": "Railway Circle to nowoczesna firma spedycyjna i logistyczna.", "desc_2": "Nasz zespół to wykwalifikowani specjaliści z wieloletnim doświadczeniem.", "link": "Czytaj więcej" },
+  "cta_section": { "title": "Gotowy na optymalizację łańcucha dostaw?", "subtitle": "Skontaktuj się z nami już dziś, aby odkryć nowe możliwości dla swojej firmy.", "button": "Skontaktuj się" },
+  "about": {
+    "hero_badge": "O nas", "hero_title": "Przekształcamy wyzwania w zyski", "hero_subtitle": "Jesteśmy ekspertami na rynku europejskim w transporcie kolejowym.",
+    "story_title": "Nasza misja", "story_p1": "Firma Railway Circle została założona po to, by dostarczać zyski naszym partnerom.", "story_p2": "Trzon stanowią profesjonaliści transportu kolejowego w Europie.",
+    "values_title": "Nasze wartości",
+    "value_reliability": "Niezawodność", "value_reliability_desc": "Skrupulatne planowanie tras i standardy bezpieczeństwa.",
+    "value_360": "Podejście 360°", "value_360_desc": "Gwarancja najwyższego poziomu obsługi od A do Z.",
+    "value_sustainability": "Rozwój zrównoważony", "value_sustainability_desc": "Dbamy o środowisko poprzez mniejszy ślad węglowy.",
+    "value_digital": "Cyfryzacja", "value_digital_desc": "Cyfrowy system Track & Trace.",
+    "group_title": "Część grupy miedzynarodowej", "group_desc": "Należymy do solidnej i wpływowej sieci spedycyjnej:",
+    "director_title": "Członek zarządu", "director_name": "Melita Rozman Dacar", "director_desc": "Ekspert z bogatym doświadczeniem w kolejnictwie."
+  },
+  "services": { "hero_badge": "Usługi", "hero_title": "Zróżnicowana oferta dla Twojego ładunku", "hero_subtitle": "Spedycja kolejowa, intermodal, towary RID i usługi celne pod 1 adresem.", "cta_title": "Szukasz niestandardowego rozwiązania?", "cta_desc": "Mamy na to odpowiedź.", "cta_button": "Zleć transport" },
+  "contact": {
+    "hero_badge": "Kontakt", "hero_title": "Porozmawiajmy", "hero_subtitle": "Czekamy na wiadomości 24 godziny na dobę.",
+    "form_title": "Wyślij wiadomość", "name": "Imię i nazwisko", "email": "Adres e-mail", "company": "Firma", "phone": "Telefon", "message": "Wiadomość", "message_placeholder": "Opisz nam swoją sprawę...", "send": "Wyślij", "sending": "Wysyłanie...",
+    "success": "Wiadomość została wysłana pomyślnie!", "error": "Błąd wysyłania. Spróbuj jeszcze raz.",
+    "info_title": "Dane firmy", "address": "Adres rejestrowy", "address_main": "Bosiljevska 20, Zagrzeb (Chorwacja)", "address_office": "Biuro obsługi: Sveti Duh 50A, Zagrzeb", "email_label": "E-mail kontaktowy", "availability": "Obsługa", "availability_value": "Zawsze w zasięgu – 24/7"
+  },
+  "footer": { "tagline": "Ruch to Twoja przewaga.", "links_title": "Linki", "contact_title": "Wsparcie", "rights": "Wszelkie prawa zastrzeżone." }
+}

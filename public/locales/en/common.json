@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Your reliable railway logistics partner",
+    "title_1": "Where movement",
+    "title_2": "becomes advantage",
+    "subtitle": "Comprehensive logistics solutions for freight railway transport across Central and Southeastern Europe.",
+    "cta_primary": "Request a quote",
+    "cta_secondary": "Our services",
+    "scroll": "Scroll down"
+  },
+  "stats": {
+    "tons": "tons of cargo per year",
+    "countries": "countries in network",
+    "years": "years of experience",
+    "availability": "team availability"
+  },
+  "services_overview": {
+    "title": "Our Services",
+    "subtitle": "From first request to final delivery — complete logistics solutions in one place.",
+    "rail": {
+      "title": "Classic Rail Transport",
+      "desc": "Organisation and implementation of freight transport by rail through key European corridors.",
+      "features": ["Bulk wagons", "Container transport", "Tankers", "Refrigerated wagons"]
+    },
+    "intermodal": {
+      "title": "Intermodal Transport",
+      "desc": "Combination of rail and road transport for optimal routes and delivery costs.",
+      "features": ["Rail + Road", "Rail + Sea", "Multimodal terminals", "Door-to-door"]
+    },
+    "dangerous": {
+      "title": "Dangerous Goods (RID)",
+      "desc": "Certified transport of dangerous goods according to the strictest safety standards.",
+      "features": ["RID certified solutions", "Classes 1–9", "Special wagons", "Safety documentation"]
+    },
+    "special": {
+      "title": "Special Cargo",
+      "desc": "Transport of heavy, oversized and non-standard cargo with special route planning.",
+      "features": ["Heavy loads (> 60t)", "Oversized cargo", "Route planning", "Special permits"]
+    },
+    "customs": {
+      "title": "Customs & Documentation",
+      "desc": "Complete preparation of customs documentation and representation before customs authorities.",
+      "features": ["Import/Export clearance", "Transit procedures", "T1/T2 documents", "Customs representative"]
+    },
+    "tracking": {
+      "title": "Track & Trace",
+      "desc": "Real-time shipment tracking with full supply chain transparency.",
+      "features": ["Track & Trace system", "Real-time positioning", "Digital documentation", "24/7 data access"]
+    }
+  },
+  "about_teaser": {
+    "badge": "About us",
+    "title": "360° logistics partner",
+    "desc_1": "Railway Circle is a modern logistics company specialising in freight railway transport. Our \"closed loop\" concept ensures continuous and efficient functioning of your supply chain.",
+    "desc_2": "Experienced experts from Slovenia, Croatia and Serbia with over 15 years of knowledge in railway transport.",
+    "link": "Learn more about us"
+  },
+  "cta_section": {
+    "title": "Ready to optimise your logistics chain?",
+    "subtitle": "Contact us today and discover how we can transform your logistics challenges into competitive advantages.",
+    "button": "Contact us"
+  },
+  "about": {
+    "hero_badge": "About us",
+    "hero_title": "We transform logistics challenges into advantages",
+    "hero_subtitle": "A modern logistics company specialising in freight railway transport with extensive experience across Europe.",
+    "story_title": "Our Story",
+    "story_p1": "Railway Circle was founded with one mission: to transform logistics challenges into competitive advantages for our customers. Our company builds its offering on the concept of \"closed loop\" logistics — from the first request to final delivery.",
+    "story_p2": "The core of the company consists of experienced experts from Slovenia, Croatia and Serbia who combine over 15 years of knowledge in railway transport. Our mission is clear: to provide customers with a transparent, reliable and efficient logistics experience.",
+    "values_title": "Our Values",
+    "value_reliability": "Reliability",
+    "value_reliability_desc": "Precise route planning and adherence to the highest safety standards guarantee the safety of your shipment.",
+    "value_360": "360° Approach",
+    "value_360_desc": "From the first request to final delivery — complete logistics solutions without interruptions or bottlenecks.",
+    "value_sustainability": "Sustainability",
+    "value_sustainability_desc": "Emphasis on reducing carbon footprint through route optimisation and modernisation of logistics processes.",
+    "value_digital": "Digitalisation",
+    "value_digital_desc": "Full digitalisation of processes with real-time access to key information via the Track & Trace system.",
+    "group_title": "Part of a strong logistics group",
+    "group_desc": "Railway Circle is part of a successful group of companies covering the entire logistics chain:",
+    "director_title": "Company Director",
+    "director_name": "Melita Rozman Dacar",
+    "director_desc": "Long-time manager of Slovenian Railways and experienced expert in railway logistics."
+  },
+  "services": {
+    "hero_badge": "Services",
+    "hero_title": "Comprehensive logistics solutions",
+    "hero_subtitle": "From classic rail transport to special logistics challenges — everything in one place.",
+    "cta_title": "Need a tailored solution?",
+    "cta_desc": "Every logistics challenge is unique. Contact us for an offer tailored to your needs.",
+    "cta_button": "Request a quote"
+  },
+  "contact": {
+    "hero_badge": "Contact",
+    "hero_title": "Get in touch with us",
+    "hero_subtitle": "Our team is available 24 hours a day for swift resolution of your logistics challenges.",
+    "form_title": "Send an inquiry",
+    "name": "Full name",
+    "email": "Email address",
+    "company": "Company",
+    "phone": "Phone",
+    "message": "Message",
+    "message_placeholder": "Describe your logistics needs...",
+    "send": "Send inquiry",
+    "sending": "Sending...",
+    "success": "Your inquiry has been sent successfully! We will get back to you as soon as possible.",
+    "error": "An error occurred. Please try again or contact us directly.",
+    "info_title": "Information",
+    "address": "Address",
+    "address_main": "Bosiljevska 20, Zagreb",
+    "address_office": "Office: Sveti Duh 50A, Zagreb",
+    "email_label": "Email",
+    "availability": "Availability",
+    "availability_value": "24/7 — we are always here for you"
+  },
+  "footer": {
+    "tagline": "Where movement becomes advantage.",
+    "links_title": "Quick links",
+    "contact_title": "Contact",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Acasă", "about": "Despre Noi", "services": "Servicii", "contact": "Contact" },
+  "hero": {
+    "badge": "Partenerul dvs. de încredere în logistica feroviară",
+    "title_1": "Unde mișcarea", "title_2": "se transformă în avantaj",
+    "subtitle": "Soluții logistice complete pentru transportul feroviar de marfă în Europa Centrală și de Sud-Est.",
+    "cta_primary": "Cereți o ofertă", "cta_secondary": "Serviciile noastre", "scroll": "Derulați"
+  },
+  "stats": { "tons": "tone pe an", "countries": "țări acoperite", "years": "ani de experiență ro", "availability": "disponibilitatea echipei" },
+  "services_overview": {
+    "title": "Aici este portofoliul", "subtitle": "De la început până la destinație.",
+    "rail": { "title": "Transport feroviar clasic", "desc": "Operațiuni logistice pe rute rutiere și coridoare cheie." },
+    "intermodal": { "title": "Transport intermodal", "desc": "Integrarea căilor ferate cu mașini rutiere." },
+    "dangerous": { "title": "Mărfuri periculoase (RID)", "desc": "Condiții maxime de siguranță europeană." },
+    "special": { "title": "Echipamente grele", "desc": "Mijloace specializate unice." },
+    "customs": { "title": "Vama și tranzitul", "desc": "Aprobări la trecerea frontierei." },
+    "tracking": { "title": "Sistem GPS/Track", "desc": "Informație constantă la nivel avansat." }
+  },
+  "about_teaser": { "badge": "Echipa", "title": "Alături mereu", "desc_1": "Railway Circle este specializată pe piața de marfă.", "desc_2": "Cei mai tari asistenți pentru expedieri.", "link": "Mai multe aici" },
+  "cta_section": { "title": "Pregătiți să schimbați modul companiei?", "subtitle": "Aplicați prin noi ca sursă de avantaje de rețea.", "button": "Bifați cererea azi" },
+  "about": {
+    "hero_badge": "Povestea Noastră", "hero_title": "Inovatori din Slovenia în logistică", "hero_subtitle": "Partenerul regional european eficient.",
+    "story_title": "Date esențiale", "story_p1": "Suntem concentrați pe viitorul marfarelor.", "story_p2": "Aducem performanța prin calități superioare.",
+    "values_title": "Valori Centrale",
+    "value_reliability": "Certitudine", "value_reliability_desc": "Marfa dvs ajunge în siguranță.",
+    "value_360": "Ecosistem", "value_360_desc": "Modelul integrat cap la cap.",
+    "value_sustainability": "Natură ocrotită", "value_sustainability_desc": "Măsurile eficiente de ecologie implementate zilnic.",
+    "value_digital": "Era Inteligentă", "value_digital_desc": "Online rapid prin uneltele informatice aduse de noi.",
+    "group_title": "Filială mare", "group_desc": "O mare corporație este umbrela noastră:",
+    "director_title": "Conducerea", "director_name": "Melita Rozman Dacar", "director_desc": "Expertă dedicată excelenței și calității clienților."
+  },
+  "services": { "hero_badge": "Facilități", "hero_title": "Operațiuni Fără Întârzieri", "hero_subtitle": "Tehnologia pusă la dispoziție cu preț optim.", "cta_title": "Căutați oferte B2B?", "cta_desc": "Calculați acum cu specialiștii RC.", "cta_button": "Preluare imediată" },
+  "contact": {
+    "hero_badge": "Suntem aici", "hero_title": "Apelați experții pentru programări", "hero_subtitle": "Serviciul de noapte este de asemenea la comanda dvs.",
+    "form_title": "Formular", "name": "Nume și Prenume", "email": "Adresa electronica email", "company": "Nume entitate de Afaceri", "phone": "Prefix plus număr", "message": "Spațiul pt solicitare", "message_placeholder": "Buna ziua, am dori...", "send": "Trimitere email", "sending": "Așteptați...",
+    "success": "Complet terminat!", "error": "A picat conexiunea. Refaceți.",
+    "info_title": "Detalii Reale", "address": "Sediul Social", "address_main": "Bosiljevska 20, Zagreb (HR)", "address_office": "Biroul General: Sveti Duh 50A, Zagreb", "email_label": "Email Office", "availability": "Echipele disponibile", "availability_value": "Vă ajutăm NON-STOP și în vacanțe."
+  },
+  "footer": { "tagline": "Răsplată peste așteptări.", "links_title": "Meniul Jos", "contact_title": "De Bază", "rights": "Toate drepturile sunt protejate." }
+}

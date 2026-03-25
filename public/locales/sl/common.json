@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Domov", "about": "O nas", "services": "Storitve", "contact": "Kontakt" },
+  "hero": {
+    "badge": "Vaš zanesljiv partner v železniški logistiki",
+    "title_1": "Kjer gibanje", "title_2": "postane prednost",
+    "subtitle": "Celovite logistične rešitve za tovorni železniški prevoz po Srednji in Jugovzhodni Evropi.",
+    "cta_primary": "Zahtevajte ponudbo", "cta_secondary": "Naše storitve", "scroll": "Pomikajte navzdol"
+  },
+  "stats": { "tons": "ton tovora letno", "countries": "držav v mreži", "years": "let izkušenj", "availability": "razpoložljivost ekipe" },
+  "services_overview": {
+    "title": "Naše storitve", "subtitle": "Od prve zahteve do končne dostave — celovite logistične rešitve na enem mestu.",
+    "rail": { "title": "Klasični železniški prevoz", "desc": "Organizacija in izvedba tovornih prevozov po železnici skozi ključne evropske koridorje.", "features": ["Vagoni za razsuti tovor", "Kontejnerski prevoz", "Cisterni", "Hladilniki"] },
+    "intermodal": { "title": "Intermodalni prevoz", "desc": "Kombinacija železnice in cestnega prometa za optimalne poti in stroške dostave.", "features": ["Železnica + cesta", "Železnica + morje", "Multimodalni terminali", "Vrata-do-vrat"] },
+    "dangerous": { "title": "Prevoz nevarnega blaga (RID)", "desc": "Certificiran prevoz nevarnih snovi po najstrožjih varnostnih standardih.", "features": ["RID certificirane rešitve", "Razredi 1–9", "Posebni vagoni", "Varnostna dokumentacija"] },
+    "special": { "title": "Izredne pošiljke", "desc": "Prevoz težkih, gabaritnih in nestandardnih tovorov s posebnim načrtovanjem poti.", "features": ["Težki tovori (> 60t)", "Gabaritni tovori", "Načrtovanje poti", "Posebna dovoljenja"] },
+    "customs": { "title": "Carinjenje in dokumentacija", "desc": "Celostna priprava carinske dokumentacije in zastopanje pred carinskimi organi.", "features": ["Uvozno/izvozno carinjenje", "Tranzitni postopki", "T1/T2 dokumenti", "Carinski zastopnik"] },
+    "tracking": { "title": "Sledenje pošiljk", "desc": "Sledenje pošiljk v realnem času s popolno preglednostjo dobavne verige.", "features": ["Sistem Track & Trace", "Sledenje v realnem času", "Digitalna dokumentacija", "24/7 dostop do podatkov"] }
+  },
+  "about_teaser": { "badge": "O nas", "title": "360° logistični partner", "desc_1": "Railway Circle je sodobno logistično podjetje, specializirano za tovorni železniški prevoz.", "desc_2": "Izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije z več kot 15 leti znanja v železniškem prometu.", "link": "Več o nas" },
+  "cta_section": { "title": "Pripravljeni na optimizacijo vaše logistične verige?", "subtitle": "Kontaktirajte nas danes in odkrijte, kako lahko spremenimo vaše logistične izzive v konkurenčne prednosti.", "button": "Kontaktirajte nas" },
+  "about": {
+    "hero_badge": "O nas", "hero_title": "Logistične izzive pretvarjamo v prednosti", "hero_subtitle": "Sodobno logistično podjetje, specializirano za tovorni železniški prevoz z bogatimi izkušnjami po Evropi.",
+    "story_title": "Naša zgodba", "story_p1": "Railway Circle je bil ustanovljen z enim poslanstvom: pretvoriti logistične izzive v konkurenčne prednosti za naše stranke.", "story_p2": "Jedro podjetja sestavljajo izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije, ki združujejo več kot 15 let znanja v železniškem prometu.",
+    "values_title": "Naše vrednote",
+    "value_reliability": "Zanesljivost", "value_reliability_desc": "Natančno načrtovanje prevoznih poti in upoštevanje najvišjih varnostnih standardov.",
+    "value_360": "360° pristop", "value_360_desc": "Od prve zahteve do končne dostave — celovite logistične rešitve brez prekinitev.",
+    "value_sustainability": "Trajnost", "value_sustainability_desc": "Poudarek na zmanjšanju ogljičnega odtisa z optimizacijo poti in modernizacijo logistike.",
+    "value_digital": "Digitalizacija", "value_digital_desc": "Popolna digitalizacija procesov z dostopom do ključnih informacij v realnem času.",
+    "group_title": "Del močnejše skupine", "group_desc": "Railway Circle je del uspešne skupine podjetij, ki pokrivajo celotno logistično verigo:",
+    "director_title": "Direktorica podjetja", "director_name": "Melita Rozman Dacar", "director_desc": "Dolgoletna menedžerka Slovenskih železnic in izkušena strokovnjakinja v železniški logistiki."
+  },
+  "services": { "hero_badge": "Storitve", "hero_title": "Celovite logistične rešitve", "hero_subtitle": "Od klasičnega železniškega prevoza do posebnih logističnih izzivov — vse na enem mestu.", "cta_title": "Potrebujete prilagojeno rešitev?", "cta_desc": "Vsak logistični izziv je edinstven. Kontaktirajte nas za ponudbo, prilagojeno vašim potrebam.", "cta_button": "Zahtevajte ponudbo" },
+  "contact": {
+    "hero_badge": "Kontakt", "hero_title": "Stopite v stik z nami", "hero_subtitle": "Naša ekipa je na voljo 24 ur na dan.",
+    "form_title": "Pošljite povpraševanje", "name": "Ime in priimek", "email": "E-poštni naslov", "company": "Podjetje", "phone": "Telefon", "message": "Sporočilo", "message_placeholder": "Opišite svoje logistične potrebe...", "send": "Pošlji povpraševanje", "sending": "Pošiljanje...",
+    "success": "Vaše povpraševanje je bilo uspešno poslano!", "error": "Prišlo je do napake. Poskusite znova.",
+    "info_title": "Informacije", "address": "Naslov", "address_main": "Bosiljevska 20, Zagreb", "address_office": "Pisarna: Sveti Duh 50A, Zagreb", "email_label": "E-pošta", "availability": "Razpoložljivost", "availability_value": "24/7 — vedno smo tu za vas"
+  },
+  "footer": { "tagline": "Kjer gibanje postane prednost.", "links_title": "Hitre povezave", "contact_title": "Kontakt", "rights": "Vse pravice pridržane." }
+}

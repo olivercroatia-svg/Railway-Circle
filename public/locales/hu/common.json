@@ -1,0 +1,40 @@
+{
+  "nav": { "home": "Kezdőlap", "about": "Rólunk", "services": "Szolgáltatások", "contact": "Kapcsolat" },
+  "hero": {
+    "badge": "Megbízható vasúti logisztikai partner",
+    "title_1": "Ahol a mozgás", "title_2": "előnnyé válik",
+    "subtitle": "Átfogó logisztikai megoldások a közép- és délkelet-európai vasúti áruszállítás számára.",
+    "cta_primary": "Ajánlatkérés", "cta_secondary": "Szolgáltatásaink", "scroll": "Görgessen le"
+  },
+  "stats": { "tons": "vagyontárgy tonnája évente", "countries": "ország a hálózatban", "years": "év tapasztalat", "availability": "csapat elérhetősége" },
+  "services_overview": {
+    "title": "Szolgáltatásaink", "subtitle": "Az első megkereséstől a végső kiszállításig — teljes logisztikai megoldások egy helyen.",
+    "rail": { "title": "Klasszikus vasúti szállítás", "desc": "Vasúti teherfuvarozás szervezése és lebonyolítása a kulcsfontosságú európai folyosókon." },
+    "intermodal": { "title": "Intermodális szállítás", "desc": "A vasúti és közúti szállítás kombinációja az optimális útvonalak és szállítási költségek érdekében." },
+    "dangerous": { "title": "Veszélyes áruk (RID)", "desc": "Veszélyes anyagok hitelesített szállítása a legszigorúbb biztonsági szabványok szerint." },
+    "special": { "title": "Kivételes szállítmányok", "desc": "Nehéz, túlméretes és nem szabványos rakományok speciális útvonaltervezéssel." },
+    "customs": { "title": "Vámkezelés és dokumentáció", "desc": "A vámdokumentáció teljes körű előkészítése és képviselet a vámhatóságok előtt." },
+    "tracking": { "title": "Nyomon követés", "desc": "Valós idejű küldeménykövetés a teljes ellátási lánc átláthatóságával." }
+  },
+  "about_teaser": { "badge": "Rólunk", "title": "360° logisztikai partner", "desc_1": "A Railway Circle modern logisztikai vállalat a vasúti teherfuvarozásra specializálódva.", "desc_2": "Tapasztalt szakértők Szlovéniából, Horvátországból és Szerbiából.", "link": "Tudjon meg többet" },
+  "cta_section": { "title": "Készen áll a logisztikai lánca optimalizálására?", "subtitle": "Lépjen kapcsolatba velünk, és tudja meg, hogyan válthatjuk versenyelőnnyé logisztikai kihívásait.", "button": "Kapcsolatfelvétel" },
+  "about": {
+    "hero_badge": "Rólunk", "hero_title": "A logisztikai kihívásokat előnyökké változtatjuk", "hero_subtitle": "Modern logisztikai cég a vasúti teherfuvarozásra fókuszálva.",
+    "story_title": "A mi történetünk", "story_p1": "A Railway Circle célja, hogy a logisztikai kihívásokat előnnyé tegye ügyfelei számára.", "story_p2": "A vállalat tapasztalt európai szakértőkből áll.",
+    "values_title": "Értékeink",
+    "value_reliability": "Megbízhatóság", "value_reliability_desc": "Precíz útvonaltervezés a legmagasabb szintű biztonsággal.",
+    "value_360": "360° megközelítés", "value_360_desc": "Komplett logisztikai megoldások megszakítás nélkül.",
+    "value_sustainability": "Fenntarthatóság", "value_sustainability_desc": "A karbonlábnyom csökkentése a folyamatok korszerűsítésével.",
+    "value_digital": "Digitalizáció", "value_digital_desc": "Folyamatok teljes digitalizálása valós idejű adatokkal.",
+    "group_title": "Erős vállalatcsoport része", "group_desc": "A Railway Circle egy sikeres logisztikai cégcsoport tagja:",
+    "director_title": "Vállalat igazgatója", "director_name": "Melita Rozman Dacar", "director_desc": "A szlovén vasutak egykori menedzsere és szakértő."
+  },
+  "services": { "hero_badge": "Szolgáltatások", "hero_title": "Átfogó logisztikai megoldások", "hero_subtitle": "Minden logisztikai kihívásra egy helyen nyújtunk megoldást.", "cta_title": "Személyre szabott megoldásra van szüksége?", "cta_desc": "Lépjen kapcsolatba velünk a részletekért.", "cta_button": "Ajánlatkérés" },
+  "contact": {
+    "hero_badge": "Kapcsolat", "hero_title": "Lépjen velünk kapcsolatba", "hero_subtitle": "Csapatunk a nap 24 órájában elérhető.",
+    "form_title": "Ajánlatkérés", "name": "Teljes név", "email": "E-mail cím", "company": "Vállalat", "phone": "Telefonszám", "message": "Üzenet", "message_placeholder": "Írja le logisztikai igényeit...", "send": "Küldés", "sending": "Küldés folyamatban...",
+    "success": "Üzenetét sikeresen elküldtük!", "error": "Hiba történt, kérjük, próbálja újra.",
+    "info_title": "Információk", "address": "Cím", "address_main": "Bosiljevska 20, Zágráb", "address_office": "Iroda: Sveti Duh 50A, Zágráb", "email_label": "E-mail", "availability": "Elérhetőség", "availability_value": "24/7 — mindig itt vagyunk Önnek"
+  },
+  "footer": { "tagline": "Ahol a mozgás előnnyé válik.", "links_title": "Gyors hivatkozások", "contact_title": "Kapcsolat", "rights": "Minden jog fenntartva." }
+}
