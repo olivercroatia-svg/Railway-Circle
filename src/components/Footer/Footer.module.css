@@ -40,11 +40,17 @@
 }
 .bottom span:first-child { font-size: 0.78rem; color: rgba(255,255,255,0.35); }
 .group { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.group span {
+.group span, .group a {
   font-size: 0.72rem; color: rgba(255,255,255,0.35);
   padding: 3px 8px;
   border: 1px solid rgba(255,255,255,0.1);
   border-radius: 4px;
+  transition: var(--transition);
+}
+.group a:hover {
+  color: #ffffff;
+  border-color: var(--color-gold);
+  background: rgba(255,255,255,0.05);
 }
 @media (max-width: 768px) {
   .inner { grid-template-columns: 1fr; gap: 32px; padding: 48px 24px 32px; }

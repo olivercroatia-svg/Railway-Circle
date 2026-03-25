@@ -45,9 +45,9 @@ export default function Footer() {
           <span>© {year} Railway Circle d.o.o. — {t('footer.rights')}</span>
           <div className={styles.group}>
             <span>Kombinovani prevoz</span>
-            <span>Kombinirani prijevoz</span>
-            <span>BLUE Railway</span>
-            <span>BLUE Intelligence</span>
+            <a href="https://kprijevoz.com" target="_blank" rel="noopener noreferrer">Kombinirani prijevoz</a>
+            <a href="https://www.bluerailway.com" target="_blank" rel="noopener noreferrer">BLUE Railway</a>
+            <a href="https://www.blueintelligence.hr" target="_blank" rel="noopener noreferrer">BLUE Intelligence</a>
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation } from '../../hooks/use-scroll-animation';
 import styles from './About.module.css';
 
-const ABOUT_HERO_IMAGE = 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1800&q=80&auto=format&fit=crop';
+const ABOUT_HERO_IMAGE = '/assets/about-hero-port.png';
 const DIRECTOR_IMAGE = '/assets/Melita_Rozman_Dacar.jpg';
 
 const VALUES = ['reliability', '360', 'sustainability', 'digital'];
@@ -32,9 +32,9 @@ const VALUE_ICONS = {
 
 const GROUP_COMPANIES = [
   { name: 'Kombinovani prevoz', country: 'Srbija', flag: '🇷🇸' },
-  { name: 'Kombinirani prijevoz', country: 'Hrvatska', flag: '🇭🇷' },
-  { name: 'BLUE Railway', country: 'Hrvatska', flag: '🇭🇷' },
-  { name: 'BLUE Intelligence', country: 'Hrvatska', flag: '🇭🇷' },
+  { name: 'Kombinirani prijevoz', country: 'Hrvatska', flag: '🇭🇷', url: 'https://kprijevoz.com' },
+  { name: 'BLUE Railway', country: 'Hrvatska', flag: '🇭🇷', url: 'https://www.bluerailway.com' },
+  { name: 'BLUE Intelligence', country: 'Hrvatska', flag: '🇭🇷', url: 'https://www.blueintelligence.hr' },
 ];
 
 export default function About() {
@@ -120,11 +120,25 @@ export default function About() {
             <p className={styles.groupDesc}>{t('about.group_desc')}</p>
             <div className={styles.groupGrid}>
               {GROUP_COMPANIES.map(c => (
-                <div key={c.name} className={styles.groupCard}>
-                  <span className={styles.groupFlag}>{c.flag}</span>
-                  <h3 className={styles.groupName}>{c.name}</h3>
-                  <span className={styles.groupCountry}>{c.country}</span>
-                </div>
+                c.url ? (
+                  <a 
+                    key={c.name} 
+                    href={c.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className={styles.groupCard}
+                  >
+                    <span className={styles.groupFlag}>{c.flag}</span>
+                    <h3 className={styles.groupName}>{c.name}</h3>
+                    <span className={styles.groupCountry}>{c.country}</span>
+                  </a>
+                ) : (
+                  <div key={c.name} className={styles.groupCard}>
+                    <span className={styles.groupFlag}>{c.flag}</span>
+                    <h3 className={styles.groupName}>{c.name}</h3>
+                    <span className={styles.groupCountry}>{c.country}</span>
+                  </div>
+                )
               ))}
             </div>
           </div>

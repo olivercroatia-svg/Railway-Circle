@@ -130,6 +130,8 @@
   flex-direction: column;
   gap: 8px;
   transition: var(--transition);
+  text-decoration: none;
+  color: inherit;
 }
 .groupCard:hover { border-color: var(--color-border-accent); transform: translateY(-3px); }
 .groupFlag { font-size: 2rem; }

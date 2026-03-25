@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation } from '../../hooks/use-scroll-animation';
 import styles from './Contact.module.css';
 
-const CONTACT_HERO_IMAGE = 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=1800&q=80&auto=format&fit=crop';
+const CONTACT_HERO_IMAGE = '/assets/contact-hero.png';
 
 export default function Contact() {
   const { t } = useTranslation();
