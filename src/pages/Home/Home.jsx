@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation, useCountUp } from '../../hooks/use-scroll-animation';
 import styles from './Home.module.css';
 
-const HERO_IMAGE = 'https://assets.new.siemens.com/siemens/assets/api/uuid:39f9a84c-9948-45a0-bb50-a2557339d7fb/width:1920/quality:high/vectron-tauern-xload-2816.jpg';
+const HERO_IMAGE = '/assets/hero-vectron-rc.png';
 const ABOUT_IMAGE = '/assets/port-teaser.png';
 
 const SERVICE_ICONS = {
