@@ -16,7 +16,7 @@
     "customs": { "title": "Zoll & Dokumentation", "desc": "Komplette Vorbereitung von Zolldokumenten und Vertretung vor Zollbehörden.", "features": ["Import-/Exportverzollung", "Transitverfahren", "T1/T2 Dokumente", "Zollabfertigung"] },
     "tracking": { "title": "Sendungsverfolgung", "desc": "Echtzeit-Sendungsverfolgung mit voller Transparenz der Lieferkette.", "features": ["Sendungsverfolgungssystem", "Echtzeit-Positionierung", "Digitale Dokumentation", "24/7 Datenzugriff"] }
   },
-  "about_teaser": { "badge": "Über uns", "title": "360° Logistikpartner", "desc_1": "Railway Circle ist ein modernes Logistikunternehmen, das sich auf den Schienengüterverkehr spezialisiert hat.", "desc_2": "Erfahrene Experten aus Slowenien, Kroatien und Serbien mit über 15 Jahren Erfahrung.", "link": "Erfahren Sie mehr über uns" },
+  "about_teaser": { "badge": "Über uns", "title": "360° Logistikpartner", "desc_1": "Railway Circle ist ein modernes Logistikunternehmen, das sich auf den Schienengüterverkehr spezialisiert hat.", "desc_2": "Erfahrene Experten aus Slowenien, Kroatien und Serbien mit über 20 Jahren Erfahrung.", "link": "Erfahren Sie mehr über uns" },
   "cta_section": { "title": "Bereit, Ihre Logistikkette zu optimieren?", "subtitle": "Kontaktieren Sie uns noch heute und entdecken Sie, wie wir Ihre Logistikherausforderungen in Wettbewerbsvorteile verwandeln können.", "button": "Kontaktieren Sie uns" },
   "about": {
     "hero_badge": "Über uns", "hero_title": "Wir verwandeln Logistikherausforderungen in Vorteile", "hero_subtitle": "Ein modernes Logistikunternehmen spezialisiert auf Schienengüterverkehr mit umfangreicher Erfahrung.",

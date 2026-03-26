@@ -16,11 +16,11 @@
     "customs": { "title": "Celní správa a dokumentace", "desc": "Kompletní příprava celní dokumentace a zastupování před celními orgány.", "features": ["Dovozní/vývozní celní odbavení", "Tranzitní postupy", "Dokumenty T1/T2", "Celní zastoupení"] },
     "tracking": { "title": "Sledování zásilek", "desc": "Sledování zásilek v reálném čase s naprostou transparentností dodavatelského řetězce.", "features": ["Systém Track & Trace", "Sledování v reálném čase", "Digitální dokumentace", "24/7 přístup k datům"] }
   },
-  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderní logistická společnost specializující se na nákladní železniční dopravu.", "desc_2": "Zkušení odborníci ze Slovinska, Chorvatska a Srbska s více než 15 lety znalostí.", "link": "Více o nás" },
+  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderní logistická společnost specializující se na nákladní železniční dopravu.", "desc_2": "Zkušení odborníci ze Slovinska, Chorvatska a Srbska s více než 20 lety znalostí.", "link": "Více o nás" },
   "cta_section": { "title": "Jste připraveni optimalizovat svůj logistický řetězec?", "subtitle": "Kontaktujte nás ještě dnes a zjistěte, jak můžeme vaše logistické výzvy přeměnit v konkurenční výhodu.", "button": "Kontaktujte nás" },
   "about": {
     "hero_badge": "O nás", "hero_title": "Měníme logistické výzvy ve výhody", "hero_subtitle": "Moderní logistická společnost specializující se na nákladní železniční dopravu v Evropě.",
-    "story_title": "Náš příběh", "story_p1": "Společnost Railway Circle byla založena s jedním posláním: přeměnit logistické výzvy na konkurenční výhody pro naše zákazníky.", "story_p2": "Jádro společnosti tvoří zkušení odborníci s více než 15 lety znalostí.",
+    "story_title": "Náš příběh", "story_p1": "Společnost Railway Circle byla založena s jedním posláním: přeměnit logistické výzvy na konkurenční výhody pro naše zákazníky.", "story_p2": "Jádro společnosti tvoří zkušení odborníci s více než 20 lety znalostí.",
     "values_title": "Naše hodnoty",
     "value_reliability": "Spolehlivost", "value_reliability_desc": "Přesné plánování tras a dodržování nejvyšších bezpečnostních standardů.",
     "value_360": "360° přístup", "value_360_desc": "Od prvního požadavku po konečné dodání — kompletní logistická řešení.",

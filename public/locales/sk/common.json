@@ -16,11 +16,11 @@
     "customs": { "title": "Colnica a dokumentácia", "desc": "Kompletné vypracovanie colnej dokumentácie a zastupovanie pred colnými orgánmi." },
     "tracking": { "title": "Sledovanie zásielok", "desc": "Sledovanie zásielok v reálnom čase s úplnou transparentnosťou dodávateľského reťazca." }
   },
-  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderná logistická spoločnosť špecializujúca sa na nákladnú železničnú dopravu.", "desc_2": "Skúsení odborníci zo Slovinska, Chorvátska a Srbska s viac ako 15-ročnými znalosťami v železničnej doprave.", "link": "Viac o nás" },
+  "about_teaser": { "badge": "O nás", "title": "360° logistický partner", "desc_1": "Railway Circle je moderná logistická spoločnosť špecializujúca sa na nákladnú železničnú dopravu.", "desc_2": "Skúsení odborníci zo Slovinska, Chorvátska a Srbska s viac ako 20-ročnými znalosťami v železničnej doprave.", "link": "Viac o nás" },
   "cta_section": { "title": "Ste pripravení optimalizovať svoj logistický reťazec?", "subtitle": "Kontaktujte nás ešte dnes a zistite, ako môžeme premeniť vaše logistické výzvy na konkurenčnú výhodu.", "button": "Kontaktujte nás" },
   "about": {
     "hero_badge": "O nás", "hero_title": "Meníme logistické výzvy na výhody", "hero_subtitle": "Moderná logistická spoločnosť špecializujúca sa na nákladnú železničnú dopravu v Európe.",
-    "story_title": "Náš príbeh", "story_p1": "Spoločnosť Railway Circle bola založená s jedným poslaním: premeniť logistické výzvy na konkurenčné výhody pre našich zákazníkov.", "story_p2": "Jadro spoločnosti tvoria skúsení odborníci s viac ako 15-ročnými znalosťami.",
+    "story_title": "Náš príbeh", "story_p1": "Spoločnosť Railway Circle bola založená s jedným poslaním: premeniť logistické výzvy na konkurenčné výhody pre našich zákazníkov.", "story_p2": "Jadro spoločnosti tvoria skúsení odborníci s viac ako 20-ročnými znalosťami.",
     "values_title": "Naše hodnoty",
     "value_reliability": "Spoľahlivosť", "value_reliability_desc": "Presné plánovanie trasy a dodržiavanie najvyšších bezpečnostných štandardov.",
     "value_360": "360° prístup", "value_360_desc": "Od prvej požiadavky po konečné dodanie — kompletné logistické riešenia.",

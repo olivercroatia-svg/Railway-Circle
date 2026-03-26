@@ -16,11 +16,11 @@
     "customs": { "title": "Carinjenje in dokumentacija", "desc": "Celostna priprava carinske dokumentacije in zastopanje pred carinskimi organi.", "features": ["Uvozno/izvozno carinjenje", "Tranzitni postopki", "T1/T2 dokumenti", "Carinski zastopnik"] },
     "tracking": { "title": "Sledenje pošiljk", "desc": "Sledenje pošiljk v realnem času s popolno preglednostjo dobavne verige.", "features": ["Sistem Track & Trace", "Sledenje v realnem času", "Digitalna dokumentacija", "24/7 dostop do podatkov"] }
   },
-  "about_teaser": { "badge": "O nas", "title": "360° logistični partner", "desc_1": "Railway Circle je sodobno logistično podjetje, specializirano za tovorni železniški prevoz.", "desc_2": "Izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije z več kot 15 leti znanja v železniškem prometu.", "link": "Več o nas" },
+  "about_teaser": { "badge": "O nas", "title": "360° logistični partner", "desc_1": "Railway Circle je sodobno logistično podjetje, specializirano za tovorni železniški prevoz.", "desc_2": "Izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije z več kot 20 leti znanja v železniškem prometu.", "link": "Več o nas" },
   "cta_section": { "title": "Pripravljeni na optimizacijo vaše logistične verige?", "subtitle": "Kontaktirajte nas danes in odkrijte, kako lahko spremenimo vaše logistične izzive v konkurenčne prednosti.", "button": "Kontaktirajte nas" },
   "about": {
     "hero_badge": "O nas", "hero_title": "Logistične izzive pretvarjamo v prednosti", "hero_subtitle": "Sodobno logistično podjetje, specializirano za tovorni železniški prevoz z bogatimi izkušnjami po Evropi.",
-    "story_title": "Naša zgodba", "story_p1": "Railway Circle je bil ustanovljen z enim poslanstvom: pretvoriti logistične izzive v konkurenčne prednosti za naše stranke.", "story_p2": "Jedro podjetja sestavljajo izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije, ki združujejo več kot 15 let znanja v železniškem prometu.",
+    "story_title": "Naša zgodba", "story_p1": "Railway Circle je bil ustanovljen z enim poslanstvom: pretvoriti logistične izzive v konkurenčne prednosti za naše stranke.", "story_p2": "Jedro podjetja sestavljajo izkušeni strokovnjaki iz Slovenije, Hrvaške in Srbije, ki združujejo več kot 20 let znanja v železniškem prometu.",
     "values_title": "Naše vrednote",
     "value_reliability": "Zanesljivost", "value_reliability_desc": "Natančno načrtovanje prevoznih poti in upoštevanje najvišjih varnostnih standardov.",
     "value_360": "360° pristop", "value_360_desc": "Od prve zahteve do končne dostave — celovite logistične rešitve brez prekinitev.",

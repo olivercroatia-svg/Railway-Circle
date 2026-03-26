@@ -108,7 +108,7 @@ export default function Home() {
           <div className={styles.statsGrid}>
             <StatItem value={850000} suffix="+" label={t('stats.tons')} />
             <StatItem value={15} suffix="+" label={t('stats.countries')} />
-            <StatItem value={15} suffix="+" label={t('stats.years')} />
+            <StatItem value={20} suffix="+" label={t('stats.years')} />
             <Stat247 label={t('stats.availability')} />
           </div>
         </div>
@@ -137,7 +137,7 @@ export default function Home() {
             <div className={`${styles.aboutImage} fade-up`} ref={aboutRef}>
               <img src={ABOUT_IMAGE} alt="Railway Circle team" />
               <div className={styles.aboutImageBadge}>
-                <span className={styles.badgeNum}>15+</span>
+                <span className={styles.badgeNum}>20+</span>
                 <span className={styles.badgeText}>godina iskustva</span>
               </div>
             </div>
