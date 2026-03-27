@@ -22,7 +22,7 @@ function LoadingScreen() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Suspense fallback={<LoadingScreen />}>
         <Navbar />
         <Routes>
