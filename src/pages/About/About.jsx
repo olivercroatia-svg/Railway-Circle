@@ -2,8 +2,8 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation } from '../../hooks/use-scroll-animation';
 import styles from './About.module.css';
 
-const ABOUT_HERO_IMAGE = '/assets/about-hero-port.png';
-const DIRECTOR_IMAGE = '/assets/Melita_Rozman_Dacar.jpg';
+const ABOUT_HERO_IMAGE = `${import.meta.env.BASE_URL}assets/about-hero-port.png`;
+const DIRECTOR_IMAGE = `${import.meta.env.BASE_URL}assets/Melita_Rozman_Dacar.jpg`;
 
 const VALUES = ['reliability', '360', 'sustainability', 'digital'];
 

@@ -3,8 +3,8 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation, useCountUp } from '../../hooks/use-scroll-animation';
 import styles from './Home.module.css';
 
-const HERO_IMAGE = '/assets/hero-vectron-rc.png';
-const ABOUT_IMAGE = '/assets/port-teaser.png';
+const HERO_IMAGE = `${import.meta.env.BASE_URL}assets/hero-vectron-rc.png`;
+const ABOUT_IMAGE = `${import.meta.env.BASE_URL}assets/port-teaser.png`;
 
 const SERVICE_ICONS = {
   rail: <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="7" width="20" height="10" rx="2"/><path d="M16 7V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v2"/><path d="M6 17l-1 3M18 17l1 3M2 12h20"/></svg>,
