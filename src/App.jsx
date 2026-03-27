@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Suspense } from 'react';
 import './i18n';
 import Navbar from './components/Navbar/Navbar';
@@ -22,7 +22,7 @@ function LoadingScreen() {
 
 export default function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <HashRouter>
       <Suspense fallback={<LoadingScreen />}>
         <Navbar />
         <Routes>
@@ -33,6 +33,6 @@ export default function App() {
         </Routes>
         <Footer />
       </Suspense>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
