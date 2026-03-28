@@ -3,7 +3,8 @@ import { useTranslation } from 'react-i18next';
 import { useScrollAnimation, useCountUp } from '../../hooks/use-scroll-animation';
 import styles from './Home.module.css';
 
-const HERO_IMAGE = `${import.meta.env.BASE_URL}assets/hero-vectron-rc.png`;
+const HERO_VIDEO = `${import.meta.env.BASE_URL}assets/voznja.mp4`;
+const HERO_IMAGE = `${import.meta.env.BASE_URL}assets/hero-vectron-rc.png`; // Keep as fallback/poster
 const ABOUT_IMAGE = `${import.meta.env.BASE_URL}assets/port-teaser.png`;
 
 const SERVICE_ICONS = {
@@ -74,7 +75,15 @@ export default function Home() {
       {/* HERO */}
       <section className={styles.hero}>
         <div className={styles.heroBg}>
-          <img src={HERO_IMAGE} alt="Siemens Vectron locomotive" className={styles.heroBgImg} />
+          <video
+            src={HERO_VIDEO}
+            className={styles.heroBgVideo}
+            autoPlay
+            loop
+            muted
+            playsInline
+            poster={HERO_IMAGE}
+          />
           <div className={styles.heroBgOverlay} />
         </div>
         <div className={`container ${styles.heroContent}`}>
